@@ -1,0 +1,3 @@
+NAME:Prameela
+COURSE:Bachelor of Computer Applications
+Github is used to store the real-time projects.
